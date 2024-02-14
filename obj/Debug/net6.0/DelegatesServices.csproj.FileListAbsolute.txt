@@ -1,0 +1,15 @@
+C:\Users\akhilprem\source\repos\DelegatesServices\DelegatesServices\bin\Debug\net6.0\DelegatesServices.exe
+C:\Users\akhilprem\source\repos\DelegatesServices\DelegatesServices\bin\Debug\net6.0\DelegatesServices.deps.json
+C:\Users\akhilprem\source\repos\DelegatesServices\DelegatesServices\bin\Debug\net6.0\DelegatesServices.runtimeconfig.json
+C:\Users\akhilprem\source\repos\DelegatesServices\DelegatesServices\bin\Debug\net6.0\DelegatesServices.dll
+C:\Users\akhilprem\source\repos\DelegatesServices\DelegatesServices\bin\Debug\net6.0\DelegatesServices.pdb
+C:\Users\akhilprem\source\repos\DelegatesServices\DelegatesServices\obj\Debug\net6.0\DelegatesServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akhilprem\source\repos\DelegatesServices\DelegatesServices\obj\Debug\net6.0\DelegatesServices.AssemblyInfoInputs.cache
+C:\Users\akhilprem\source\repos\DelegatesServices\DelegatesServices\obj\Debug\net6.0\DelegatesServices.AssemblyInfo.cs
+C:\Users\akhilprem\source\repos\DelegatesServices\DelegatesServices\obj\Debug\net6.0\DelegatesServices.csproj.CoreCompileInputs.cache
+C:\Users\akhilprem\source\repos\DelegatesServices\DelegatesServices\obj\Debug\net6.0\DelegatesServices.sourcelink.json
+C:\Users\akhilprem\source\repos\DelegatesServices\DelegatesServices\obj\Debug\net6.0\DelegatesServices.dll
+C:\Users\akhilprem\source\repos\DelegatesServices\DelegatesServices\obj\Debug\net6.0\refint\DelegatesServices.dll
+C:\Users\akhilprem\source\repos\DelegatesServices\DelegatesServices\obj\Debug\net6.0\DelegatesServices.pdb
+C:\Users\akhilprem\source\repos\DelegatesServices\DelegatesServices\obj\Debug\net6.0\DelegatesServices.genruntimeconfig.cache
+C:\Users\akhilprem\source\repos\DelegatesServices\DelegatesServices\obj\Debug\net6.0\ref\DelegatesServices.dll
